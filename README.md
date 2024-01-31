@@ -1,6 +1,7 @@
 ## 🎄 ~fropple's github page
 
 <img align="right" src="https://raw.githubusercontent.com/fropple/fropple/main/fan-1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+this is not working lol 
 
 ![](https://komarev.com/ghpvc/?username=fropple&style=for-the-badge) 
 
